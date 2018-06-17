@@ -5,3 +5,23 @@ function shout(string) {
 function whisper(string){
   
 }
+
+function whisper(string){
+  
+}
+
+function whisper(string){
+  
+}
+
+function whisper(string){
+  
+}
+
+function whisper(string){
+  
+}
+
+function whisper(string){
+  
+}
